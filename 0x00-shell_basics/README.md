@@ -1,1 +1,2 @@
-Learning bash script
+#!/bin/bash
+pwd
