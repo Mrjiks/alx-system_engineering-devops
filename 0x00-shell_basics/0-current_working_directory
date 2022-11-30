@@ -1,2 +1,2 @@
 #!/bin/bash
-"$(cd "$(dirname --"$1")" >/dev/null; pwd -P)/$(basname -- "$1")"
+pwd
