@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+A script to show courrent directories and list
